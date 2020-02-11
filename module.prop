@@ -1,0 +1,7 @@
+id=emoji
+name=Change emoji Android 7.1.2
+version=v3
+versionCode=200211
+author=Edward Wu(xda@bluehomewu)
+description=Change emoji Android 7.1.2
+minMagisk=1900
